@@ -1,2 +1,2 @@
-# t-HealthSync-AI-Driven-Personal-Health-Monitoring-System
+# HealthSync-AI-Driven-Personal-Health-Monitoring-System
 HealthSync is an AI-powered health monitoring system that tracks vital metrics like heart rate, blood pressure, glucose, and activity in real-time. Using data from wearables and apps, it provides personalized health recommendations and early alerts for potential issues, aiming to prevent crises, improve habits, and support preventative care.
