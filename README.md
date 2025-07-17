@@ -1,4 +1,4 @@
-                                                  
+                                                   
 # HealthSync: AI-Driven Personal Health Monitoring System
 
 ## Overview
